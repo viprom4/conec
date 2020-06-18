@@ -1,0 +1,13 @@
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\bin\Debug\netcoreapp3.1\почта.exe
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\bin\Debug\netcoreapp3.1\почта.deps.json
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\bin\Debug\netcoreapp3.1\почта.runtimeconfig.json
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\bin\Debug\netcoreapp3.1\почта.runtimeconfig.dev.json
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\bin\Debug\netcoreapp3.1\почта.dll
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\bin\Debug\netcoreapp3.1\почта.pdb
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\obj\Debug\netcoreapp3.1\почта.csprojAssemblyReference.cache
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\obj\Debug\netcoreapp3.1\почта.AssemblyInfoInputs.cache
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\obj\Debug\netcoreapp3.1\почта.AssemblyInfo.cs
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\obj\Debug\netcoreapp3.1\почта.csproj.CoreCompileInputs.cache
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\obj\Debug\netcoreapp3.1\почта.dll
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\obj\Debug\netcoreapp3.1\почта.pdb
+C:\Users\123a5\OneDrive\Рабочий стол\раб почта\почта\почта\obj\Debug\netcoreapp3.1\почта.genruntimeconfig.cache
